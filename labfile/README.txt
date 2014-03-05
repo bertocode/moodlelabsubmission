@@ -5,9 +5,11 @@ Where to use:
 When you want to make students to do task in an specific place or enviroment, and you want to make sure, this is happening,
 this plugin enable the possibility to upload archives from a certain IP range, and need a password.
 
+Remember this version is designed for Moodle 2.5.4 version, it can be installed using general extension installer in this moodle version.
+
 Caution:
 When ussing this plugin remember not to check the "upload file" option when creating a new assign in the configuration, if you do so, 
-two uploading boxes would create, making impossible to attempt the goal this plugin is created to.
+two uploading boxes would be created, making impossible to attempt the goal this plugin is created to.
 
 Other information:
 The IP mask formats can be specified in the following way:
